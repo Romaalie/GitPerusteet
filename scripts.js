@@ -12,6 +12,7 @@ function setTime() {
   const date = now.toLocaleDateString('fi-FI', dateOptions);
 
   const datetime = `<p>Tänään on ${date}</p><p>Kello on ${time}</p>`;
+  //Eikös tässä pitänyt olla animoitu kello eikä pelkkää tekstiä.. :)
 
   document.getElementById("datetime").innerHTML = datetime;
 }
