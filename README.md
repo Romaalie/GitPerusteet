@@ -1,3 +1,14 @@
-# This a repository for a Git Basics course.
+# Tämä repositorio on Haaga-Helian kurssille gitin perusteista
 
-And this is the ReadMe.md file.
+Tässä repositoriossa on kurssin aikaisiin harjoituksiin liittyvää sisältöä, jonka tarkoituksena on ollut gitin perusteisiin tutustuminen. Repositorion on tehnyt Ali Romar.
+
+## Kurssin tiedot
+
+Kurssin nimi:   
+Git-versionhallinta
+
+Toteutuksen koodi:  
+SOF011AS2A-3002
+
+Opettaja:  
+Markku Ruonavaara
